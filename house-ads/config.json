@@ -1,1 +1,137 @@
-
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "sweet_bonanza_video_1",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads/twmedia/video_1.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Rush, play and master every move!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_video_2",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads/twmedia/video_2.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Fast moves, quick fun and endless rush!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Rush, play and master every move!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Jump into the action with Rush Game Online!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Test your speed and enjoy the rush!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Fast moves, quick fun and endless rush!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_text_2",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Play Rush Game Online and master every challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_text_1",
+      "format": "text",
+      "placements": ["banner"],
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Rush Game Online",
+      "body": "Fast action. Quick moves. Join the rush!",
+      "cta_text": "Install",
+      "bundle_id": "com.seyii.blockblitz",
+      "weight": 1
+    }
+  ]
+}

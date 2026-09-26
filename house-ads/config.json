@@ -11,10 +11,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_1.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Hit the road, overcome challenges and push your driving skills further!",
+      "title": "Chickеn Game Online",
+      "body": "Guide the chicken across the road, dodge obstacles and keep moving forward!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -23,10 +23,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_2.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Take on new roads, exciting challenges and unforgettable journeys!",
+      "title": "Chickеn Game Online",
+      "body": "Cross busy roads, avoid danger and help the chicken reach the other side!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -35,10 +35,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_3.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Drive forward, explore new routes and master every road challenge!",
+      "title": "Chickеn Game Online",
+      "body": "Move fast, time every step and master exciting chicken road challenges!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -46,10 +46,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Your next road adventure is ready to begin!",
+      "title": "Chickеn Game Online",
+      "body": "Your next chicken crossing adventure is ready to begin!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -57,10 +57,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Explore new roads and take on exciting driving challenges!",
+      "title": "Chickеn Game Online",
+      "body": "Help the chicken cross new roads and overcome exciting challenges!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -69,10 +69,10 @@
       "placements": ["banner"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_1.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Start your road adventure!",
+      "title": "Chickеn Game Online",
+      "body": "Start your chicken crossing adventure!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -81,10 +81,10 @@
       "placements": ["banner"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_2.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Drive, explore and conquer the road!",
+      "title": "Chickеn Game Online",
+      "body": "Cross the road, dodge obstacles and keep the chicken moving!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -93,10 +93,10 @@
       "placements": ["banner"],
       "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_3.png",
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "Take the wheel and hit the road!",
+      "title": "Chickеn Game Online",
+      "body": "Time your moves and help the chicken reach the other side!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     },
     {
@@ -104,10 +104,10 @@
       "format": "text",
       "placements": ["banner"],
       "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
-      "title": "Rоаd Game 2",
-      "body": "New roads and exciting challenges are waiting!",
+      "title": "Chickеn Game Online",
+      "body": "New roads, tricky obstacles and chicken adventures are waiting!",
       "cta_text": "Install",
-      "bundle_id": "astral.coppervista.stellarclusterforge",
+      "bundle_id": "com.casinoaustria.eveningguide",
       "weight": 1
     }
   ]
